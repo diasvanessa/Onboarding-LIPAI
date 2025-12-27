@@ -1,7 +1,7 @@
 """ Aula 02.05 - break e continue """
 
-# parar instrucao de loop
-
+# break - parar instrucao de loop
+print("--- break ---")
 for i in range(10):
     if i == 4:
         break # quebra o loop, vai imprimir so ate o 3
@@ -32,8 +32,7 @@ print(f"Posicao do numero {busca}: {posicao}")
 #         break    
 # print(f"Posicao do numero {busca}: {posicao}")
 
-# continue
-# pular a iteracao atual do loop
+# continue - pular a iteracao atual do loop
 print("--- continue ---")
 for numero in numeros:
     if numero == 3:
