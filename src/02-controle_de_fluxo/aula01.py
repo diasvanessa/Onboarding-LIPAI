@@ -1,4 +1,4 @@
-""" Aula 01 - Operadores """
+""" Aula 02.01 - Operadores """
 
 # Operadores Aritméticos
 n1 = 10.2  
