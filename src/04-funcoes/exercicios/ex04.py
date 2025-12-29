@@ -10,6 +10,8 @@ def somar(*args):
         soma += numero
     return soma
 
+breakpoint()
 numeros = [10, 20, 30, 20, 10, 200, 1000, 50.4]
 resultado_soma = somar(*numeros)
 print(resultado_soma)
+

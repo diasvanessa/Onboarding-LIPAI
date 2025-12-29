@@ -61,6 +61,7 @@ def situacao_individuo(imc):
     return f'Sua situacao eh: {obter_classificacao(imc)} com base no imc de {imc:.2f}'
 
 
+breakpoint()
 altura = float(input('Digite sua altura: '))
 peso = float(input('Digite seu peso: '))
 
@@ -71,3 +72,4 @@ individuo = {
 
 situacao = situacao_individuo(imc=(calcular_imc(individuo)))
 print(situacao)
+
