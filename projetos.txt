@@ -1,0 +1,8 @@
+1001,Sistema de Gestão Escolar,Ana Paula Ribeiro
+1002,Aplicativo de Controle Financeiro,Carlos Eduardo Lima
+1003,Plataforma de Ensino a Distância,Mariana Souza
+1004,Sistema de Monitoramento Ambiental,Rafael Almeida
+1005,Portal de Atendimento ao Cliente,Juliana Martins
+1006,Aplicativo de Saúde e Bem-Estar,Fernando Costa
+1007,Sistema de Controle de Estoque,Patrícia Gomes
+1008,Plataforma de Gestão de Projetos,Lucas Ferreira
