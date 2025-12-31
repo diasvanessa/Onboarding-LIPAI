@@ -11,7 +11,7 @@ class Retangulo:
     # getter    
     @property # decorar com propriedade
     def base(self):
-        return self._base 
+        return self._base
     
     # setter
     @base.setter
